@@ -25,3 +25,7 @@ console.log(name);
 //Esercizio 4
 let greet = "Ciao, Mondo!";
 console.log(greet);
+
+//Esercizio 4/B
+//let greet = 'Come stai, Mondo?'
+//console.log(greet);
