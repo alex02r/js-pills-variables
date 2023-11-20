@@ -21,3 +21,7 @@ console.log(circle);
 let name = 'Carlo';
 name = 'Marco';
 console.log(name);
+
+//Esercizio 4
+let greet = "Ciao, Mondo!";
+console.log(greet);
