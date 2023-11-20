@@ -1,3 +1,4 @@
+
 //esercizio 1
 let number = 100;
 console.log(number);
@@ -33,3 +34,18 @@ console.log(greet);
 //Esercizio 4/C
 greet = `${greet} Come stai?`;
 console.log(greet);
+
+
+//Esercizio 1
+let n1= 13;
+let n2= 5;
+
+let comparison;
+if(n1 > n2){
+    comparison = n1;
+}else{
+    comparison = n2;
+}
+console.log(comparison);
+
+
