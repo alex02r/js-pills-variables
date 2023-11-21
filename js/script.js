@@ -37,6 +37,7 @@ console.log(greet);
 
 
 //Esercizio 1
+/*
 let n1= 13;
 let n2= 5;
 
@@ -47,5 +48,16 @@ if(n1 > n2){
     comparison = n2;
 }
 console.log(comparison);
+*/
 
+//Esercizio 2
+let stringa1 = "Marco";
+let stringa2 = "Mario";
+let comparison
 
+if (stringa1 == stringa2) {
+    comparison = "Valori uguali"
+}else{
+    comparison = "Valori diversi"
+}
+console.log(comparison);
