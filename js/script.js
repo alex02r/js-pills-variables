@@ -51,6 +51,7 @@ console.log(comparison);
 */
 
 //Esercizio 2
+/*
 let stringa1 = "Marco";
 let stringa2 = "Mario";
 let comparison
@@ -59,5 +60,17 @@ if (stringa1 == stringa2) {
     comparison = "Valori uguali"
 }else{
     comparison = "Valori diversi"
+}
+console.log(comparison);
+*/
+
+//Esercizio 3
+let num = "5";
+let comparison;
+
+if (num == "2") {
+    comparison= "i numeri sono uguali";
+}else{
+    comparison= "i numeri sono diversi";
 }
 console.log(comparison);
