@@ -58,7 +58,8 @@ Stampa in console il numero di elementi che costituiscono l'array `fruits`
 3. Stampa in console l'array numbers e il numero di elementi di cui si compone
 **Esercizio 2/B** 
 Calcola la somma di tutti i numeri presenti nell'array numbers dell'esercizio 2/A
-
+**Esercizio 2/C**
+Trova il valore massimo di tutti i numeri presenti nell'array numbers dell'esercizio 2/A
 
 
 

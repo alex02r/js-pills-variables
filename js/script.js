@@ -103,14 +103,22 @@ console.log(fruits.length);
 */
 //Esercizio 2/A
 const numOfElements = parseInt(prompt('Inserisci un numero intero'));
+
 let numbers = [];
 let somma = 0;
+
 for (let i = 1; i <= numOfElements; i++) {
-    numbers.push(i); 
+    numbers.push(parseInt(Math.random()* 10) + 1); 
 }
-for (let i = 0; i < numbers.length; i++) {
+let maggiore = numbers[0];
+for (let i = 1; i < numbers.length; i++) {
     somma += numbers[i];
+    if (numbers[i] > maggiore) {
+      maggiore = numbers[i];
+    }
 }
 console.log(numbers);
 console.log(numbers.length);
 console.log(somma);
+
+console.log(maggiore);
