@@ -92,5 +92,10 @@ for (let i = 42; i >= 1; i--) {
 }*/
 
 //Esercizio 1/a
+/*
 const numbers = [2, 34, 23, 22, 13, 1, 62, 66] ;
 console.log(numbers);
+*/
+//Esercizio 1/b
+const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi","papaya"];
+console.log(fruits);
