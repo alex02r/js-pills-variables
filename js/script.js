@@ -96,6 +96,6 @@ for (let i = 42; i >= 1; i--) {
 const numbers = [2, 34, 23, 22, 13, 1, 62, 66] ;
 console.log(numbers);
 */
-//Esercizio 1/b
+//Esercizio 1/b and 1/c
 const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi","papaya"];
-console.log(fruits);
+console.log(fruits.length);
