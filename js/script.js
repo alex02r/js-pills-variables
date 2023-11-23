@@ -97,5 +97,20 @@ const numbers = [2, 34, 23, 22, 13, 1, 62, 66] ;
 console.log(numbers);
 */
 //Esercizio 1/b and 1/c
+/*
 const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi","papaya"];
 console.log(fruits.length);
+*/
+//Esercizio 2/A
+const numOfElements = parseInt(prompt('Inserisci un numero intero'));
+let numbers = [];
+let somma = 0;
+for (let i = 1; i <= numOfElements; i++) {
+    numbers.push(i); 
+}
+for (let i = 0; i < numbers.length; i++) {
+    somma += numbers[i];
+}
+console.log(numbers);
+console.log(numbers.length);
+console.log(somma);
