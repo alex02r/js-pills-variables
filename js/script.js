@@ -86,7 +86,11 @@ for(let i=1; i<=42; i++){
 }
 */
 //Esercizio 1/b
+/*
 for (let i = 42; i >= 1; i--) {
     console.log(i);
-    
-}
+}*/
+
+//Esercizio 1/a
+const numbers = [2, 34, 23, 22, 13, 1, 62, 66] ;
+console.log(numbers);
