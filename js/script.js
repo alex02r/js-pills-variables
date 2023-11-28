@@ -140,4 +140,7 @@ function somma(num1, num2) {
 //Esrcizio 1/B
 PrintCiaoMondo();
 
+//Esercizio 2/B
+let result = somma(3, 6);
+console.log(result);
 
