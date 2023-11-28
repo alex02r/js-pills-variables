@@ -131,3 +131,5 @@ console.log(maggiore);
 function PrintCiaoMondo() {
     alert('Ciao Mondo!');
 }
+
+PrintCiaoMondo();

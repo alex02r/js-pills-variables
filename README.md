@@ -66,7 +66,8 @@ Trova il valore massimo di tutti i numeri presenti nell'array numbers dell'eserc
 **Funzioni**
 **Esercizio 1/A**
 Definire una funzione che stampi la stringa 'Ciao Mondo'
-
+**Esercizio 1/B**
+Richiamare la funzione definita prima
 
 
 
