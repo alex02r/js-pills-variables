@@ -102,6 +102,7 @@ const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi",
 console.log(fruits.length);
 */
 //Esercizio 2/A
+/*
 const numOfElements = parseInt(prompt('Inserisci un numero intero'));
 
 let numbers = [];
@@ -122,3 +123,11 @@ console.log(numbers.length);
 console.log(somma);
 
 console.log(maggiore);
+*/
+
+// FUNZIONI
+
+// Esercizio 1/A
+function PrintCiaoMondo() {
+    alert('Ciao Mondo!');
+}
