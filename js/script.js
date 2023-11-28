@@ -131,5 +131,13 @@ console.log(maggiore);
 function PrintCiaoMondo() {
     alert('Ciao Mondo!');
 }
+//Esercizio 2/A
+function somma(num1, num2) {
+    let somma = num1 + num2;
+    return somma;
+}
 
+//Esrcizio 1/B
 PrintCiaoMondo();
+
+
