@@ -128,7 +128,7 @@ console.log(maggiore);
 // FUNZIONI
 
 // Esercizio 1/A
-function PrintCiaoMondo() {
+/* function PrintCiaoMondo() {
     alert('Ciao Mondo!');
 }
 //Esercizio 2/A
@@ -143,4 +143,10 @@ PrintCiaoMondo();
 //Esercizio 2/B
 let result = somma(3, 6);
 console.log(result);
+*/
 
+//Esercizio 1/A
+function getOneStringFromTwo(stringA, stringB) {
+    let string = `${stringA} ${stringB}`;
+    return string;
+}
