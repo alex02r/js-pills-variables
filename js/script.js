@@ -158,7 +158,12 @@ let result = getOneStringFromTwo(stringa_uno, stringa_due);
 console.log(result); */
 
 //Esercizio 1/A
-
+/* 
 let hello = setTimeout(function(){
     alert('Ciao a tutti');
-},3000)
+},3000) */
+let i = 0;
+let incremento = setInterval(function(){
+    i++;
+    console.log(i);
+}, 1000);
