@@ -150,3 +150,9 @@ function getOneStringFromTwo(stringA, stringB) {
     let string = `${stringA} ${stringB}`;
     return string;
 }
+//Esercizio 1/B
+let stringa_uno = prompt('Inserisci una parola');
+let stringa_due = prompt('Inserisci un\'altra parola');
+
+let result = getOneStringFromTwo(stringa_uno, stringa_due);
+console.log(result);
