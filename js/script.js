@@ -162,8 +162,8 @@ console.log(result); */
 let hello = setTimeout(function(){
     alert('Ciao a tutti');
 },3000) */
-let i = 0;
+/* let i = 0;
 let incremento = setInterval(function(){
     i++;
     console.log(i);
-}, 1000);
+}, 1000); */
