@@ -145,7 +145,7 @@ let result = somma(3, 6);
 console.log(result);
 */
 
-//Esercizio 1/A
+/* //Esercizio 1/A
 function getOneStringFromTwo(stringA, stringB) {
     let string = `${stringA} ${stringB}`;
     return string;
@@ -155,4 +155,10 @@ let stringa_uno = prompt('Inserisci una parola');
 let stringa_due = prompt('Inserisci un\'altra parola');
 
 let result = getOneStringFromTwo(stringa_uno, stringa_due);
-console.log(result);
+console.log(result); */
+
+//Esercizio 1/A
+
+let hello = setTimeout(function(){
+    alert('Ciao a tutti');
+},3000)

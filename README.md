@@ -81,3 +81,7 @@ Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad
 Dichiara una funzione chiamata getOneStringFromTwo che prenda come argomenti due stringhe e ritorni come un'unica stringa formata dalle due stringhe separate da uno spazio.
 **Esercizio 1/B**
 Invoca la funzione dichiarata nell'esercizio 1/A passandole due stringhe a piacere e stampa in console la stringa ottenuta.
+
+
+**Esercizio 1/A**
+Definire un timer che dopo 3 secondi mostri un alert con scritto "Ciao a tutti"
