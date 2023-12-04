@@ -167,3 +167,8 @@ let incremento = setInterval(function(){
     i++;
     console.log(i);
 }, 1000); */
+
+let persona ={
+    nome: "mario",
+    cognome: "rossi"
+}
