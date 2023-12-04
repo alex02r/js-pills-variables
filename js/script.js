@@ -172,3 +172,4 @@ let persona ={
     nome: "mario",
     cognome: "rossi"
 }
+persona.nome;
